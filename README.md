@@ -16,13 +16,12 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 
   ‣ C<br>
   ‣ C++<br>
-  ‣ C#<br>
   ‣ Java<br>
 
 📚 **I am Currently Learning:**<br>
 
-  ‣ Laravel<br>
-  ‣ React Native<br>
+  ‣ Selenium
+  ‣ Cypress
   ‣ Playwright<br>
   ‣ Docker<br>
 
@@ -32,13 +31,11 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
   ‣ Cloud Computing<br>
   ‣ Machine Learning<br>
   ‣ Data Science<br>
-  ‣ Blockchain<br>
   
  ⚡ **I can contribute or collaborate as a:**<br>
  
  ‣ Frontend Developer <br>
- ‣ Backend Developer<br>
- ‣ Automation Developer and Tester<br>
+ ‣ Automation Tester<br>
  
 
 💬 **We can talk about Anything related to technology ,programming language ,business ,startup ,entrepreneurship and about any problem or idea.**
