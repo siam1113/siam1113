@@ -20,8 +20,8 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 
 📚 **I am Currently Learning:**<br>
 
-  ‣ Selenium
-  ‣ Cypress
+  ‣ Selenium<br>
+  ‣ Cypress<br>
   ‣ Playwright<br>
   ‣ Docker<br>
 
