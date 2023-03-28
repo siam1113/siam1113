@@ -6,8 +6,9 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 💻 **I am currently working with:**:<br>
 
   ‣ Javascript<br>
-  ‣ React.js<br>
-  ‣ Node.js and Express.js<br>
+  ‣ Playwright<br>
+  ‣ React.js & Next.js<br>
+  ‣ Node.js, Express.js & Nest.Js<br>
   ‣ Python<br>
   ‣ Django<br>
   ‣ Php<br>
@@ -22,7 +23,7 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 
   ‣ Selenium<br>
   ‣ Cypress<br>
-  ‣ Playwright<br>
+  ‣ Cloud ( AWS ) <br>
   ‣ Docker<br>
 
 📅  **I am currently exploring and want to learn more about in future:**<br>
