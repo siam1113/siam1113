@@ -10,8 +10,7 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
   ‣ React.js & Next.js<br>
   ‣ Node.js, Express.js & Nest.Js<br>
   ‣ Python<br>
-  ‣ Django<br>
-  ‣ Php<br>
+  
 
 🔺 **I have basic knowledge and want to learn more about soon:**<br>
 
