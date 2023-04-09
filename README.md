@@ -34,8 +34,10 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
   
  ⚡ **I can contribute or collaborate as a:**<br>
  
- ‣ Frontend Developer <br>
+ ‣ QA Engineer<br>
  ‣ Automation Tester<br>
+ ‣ Manual Tester<br>
+ ‣ Frontend Developer <br>
  
 
 💬 **We can talk about Anything related to technology ,programming language ,business ,startup ,entrepreneurship and about any problem or idea.**
