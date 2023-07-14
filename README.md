@@ -4,7 +4,7 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 ❇ Always highly interested in exploring and learning about new teachnologies, programming languages and build something with that. Love to discuss about new ideas , find solutions of problems no matter how big or small that is. Keenly looking forward to make an impact in these world and in the life of people around me with the knowledge and the skills i am developing and skills i will develop in future ❇<br>
 
 💻 **I am currently working with:**:<br>
-  ‣ Javascript<br>
+  ‣ Javascript & Typescript<br>
   ‣ Playwright<br>
   ‣ React.js & Next.js<br>
   ‣ Node.js, Express.js & Nest.Js<br>
@@ -18,14 +18,11 @@ I’m **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passio
 📅  **I am currently exploring and want to learn more about in future:**<br>
   ‣ Cyber Security<br>
   ‣ Cloud Computing<br>
-  ‣ Machine Learning<br>
-  ‣ Data Science<br>
   
  ⚡ **I can contribute or collaborate as a:**<br>
- ‣ QA Engineer<br>
+ ‣ SQA Engineer<br>
  ‣ Automation Tester<br>
- ‣ Manual Tester<br>
- ‣ Frontend Developer <br>
+ ‣ Full-Stack Developer <br>
  
 
 💬 **We can talk about Anything related to technology ,programming language ,business ,startup ,entrepreneurship and about any problem or idea.**
