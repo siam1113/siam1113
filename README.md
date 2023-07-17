@@ -18,7 +18,6 @@ Highly interested in exploring and learning about new teachnologies, programming
   ‣ Cloud ( AWS ) <br>
   ‣ Docker<br>
   ‣ Cyber Security<br>
-  ‣ Cloud Computing<br>
 
   
  ⚡ **I can contribute or collaborate as a:**<br>
