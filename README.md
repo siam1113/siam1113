@@ -1,7 +1,7 @@
 
 This is **Siam Hasan** , an aspiring *entrepreneur* and *programmer* who is passionate about creating problem solving and useful things which will add value to other peoples life and will create positive impact<br>
 
-Highly interested in exploring and learning about new technologies, programming languages and build something with that. Love to discuss about new ideas , find solutions of problems no matter how big or small that is. Keenly looking forward to make an impact in these world and in the life of people around me with the knowledge and the skills I am developing and will develop in future <br>
+Highly interested in exploring and learning about new technologies, programming languages and building something with those. Love to discuss about new ideas, problems and their solutions. Keenly looking forward to make an impact in these world and in the life of people around me with the knowledge and the skills I am developing and will develop in future <br>
 
 --------
 💻 **I am currently working with:**:<br>
