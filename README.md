@@ -27,14 +27,7 @@ Highly interested in exploring and learning about new technologies, programming 
  ‣ Full-Stack Developer <br>
  
 -------
-💬 **We can talk about Anything related to technology ,programming language ,business ,startup ,entrepreneurship and about any problem or idea.**
-
-🌐 **Let's Connect:**<br>
-
-‣ Linkedin : https://www.linkedin.com/in/siam-hasan-61b508165/<br>
-‣ Whatsapp : +8801851414017 <br>
-‣ Another Gihub of mine : https://github.com/Siam1111/
-
+💬 **Like to talk about anything related to technology ,business ,startup and entrepreneurship.**
 
 <!---
 Siam1111/Siam1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
