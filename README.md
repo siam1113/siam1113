@@ -2,8 +2,8 @@
 👋 This is Siam Hasan is an aspiring **entrepreneur** with a strong passion for **programming** & **technology**.<br>
 💫 Enthusiastic about learning and exploring new technologies and programming languages to create impactful projects. <br>
 🎯 Focused on delivering **high quality** solutions at fast pace by **contributing in all stages**.<br>
+💼 Working as SQA Engineer, Test Automation Engineer with multiple startups<br>
 💬 Like to talk about anything related to **technology** ,**business** ,**startup** and **entrepreneurship**.<br><br>
-![siam1113's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
