@@ -47,7 +47,7 @@
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 <br>
 
-## Let's Connect 
+## Let's Connect 🔗
 <a href="https://www.upwork.com/freelancers/~01002c8f5edfbc5075">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
 </a>
