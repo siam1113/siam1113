@@ -4,10 +4,12 @@
 <br>🎯 Focused on delivering **high quality** solutions at fast pace having the ability to **contribute in all stages of process**.<br><br>
 💼 Working as SQA Engineer, Test Automation Engineer with multiple startups<br>
 <br>💬 Like to talk about anything related to **technology** ,**business** ,**startup** and **entrepreneurship**.<br><br>
-
+<br><br>
 
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
 ![siam1113's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siam1113&theme=react&show_icons=true&hide_border=true&count_private=true)
+<br><br>
+<br><br>
 
 ## Languages I work with 💻<br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,9 +47,9 @@
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-<br>
+<br><br><br>
 
-## Let's Connect 
+## Let's Connect 🔗
 <a href="https://www.upwork.com/freelancers/~01002c8f5edfbc5075">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
 </a>
