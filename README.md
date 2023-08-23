@@ -1,7 +1,7 @@
 
 👋 This is Siam Hasan an aspiring **entrepreneur** with a strong passion for **programming** & **technology**.<br>
-💫 Enthusiastic about learning and exploring new tools and technologies to create impactful projects. <br>
-🎯 Focused on delivering **high quality** solutions at fast pace by **contributing in all stages**.<br>
+💫 Enthusiastic about learning and exploring new tools and technologies to create digital solutions. <br>
+🎯 Focused on delivering **high quality** solutions at fast pace having the ability to **contribute in all stages of process**.<br>
 💼 Working as SQA Engineer, Test Automation Engineer with multiple startups<br>
 💬 Like to talk about anything related to **technology** ,**business** ,**startup** and **entrepreneurship**.<br><br>
 
