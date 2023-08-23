@@ -4,12 +4,10 @@
 <br>🎯 Focused on delivering **high quality** solutions at fast pace having the ability to **contribute in all stages of process**.<br><br>
 💼 Working as SQA Engineer, Test Automation Engineer with multiple startups<br>
 <br>💬 Like to talk about anything related to **technology** ,**business** ,**startup** and **entrepreneurship**.<br><br>
-<br><br>
 
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
 ![siam1113's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siam1113&theme=react&show_icons=true&hide_border=true&count_private=true)
 <br><br>
-<br>
 
 ## Languages I work with 💻<br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +16,6 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PY](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <br><br>
-<br>
 ## Roles I can Play 🧑‍💻
 ### Front-End Developer <br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
