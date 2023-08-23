@@ -1,9 +1,11 @@
 
 👋 This is Siam Hasan an aspiring **entrepreneur** with a strong passion for **programming** & **technology**.<br>
-<br>💫 Enthusiastic about learning and exploring new tools and technologies to create digital solutions. <br>
+<br>💫 Enthusiastic about **learning** and **exploring** new cutting-edge tools and technologies **to create digital solutions**. <br>
 <br>🎯 Focused on delivering **high quality** solutions at fast pace having the ability to **contribute in all stages of process**.<br><br>
-💼 Working as SQA Engineer, Test Automation Engineer with multiple startups<br>
-<br>💬 Like to talk about anything related to **technology** ,**business** ,**startup** and **entrepreneurship**.<br><br>
+💼 Working as **SQA Engineer**, **Test Automation Engineer** with multiple startups around the globe.<br><br>
+💬 Like to talk about anything related to **Technology** , **Business** , **Startup** and **Entrepreneurship**.<br><br>
+🧩 Visit my [**Portfolio**](https://siamcodessolutions.vercel.app/)
+<br><br>
 
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
 ![siam1113's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siam1113&theme=react&show_icons=true&hide_border=true&count_private=true)
@@ -49,6 +51,7 @@
 <br><br><br>
 
 ## Let's Connect 🔗
+
 <a href="https://www.upwork.com/freelancers/~01002c8f5edfbc5075">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
 </a>
@@ -70,3 +73,4 @@
 <a href="https://join.skype.com/invite/rdj0V0eUI0Qg">
   <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height=25>
 </a>
+
