@@ -6,9 +6,8 @@
 💬 Like to talk about anything related to **Technology** , **Business** , **Startup** and **Entrepreneurship**.<br><br>
 🧩 Visit my [**Portfolio**](https://siamcodessolutions.vercel.app/)
 <br><br>
-
+![siam1113's GitHub stats](https://github-readme-stats.vercel.app/api?username=siam1113&show_icons=true&theme=react&rank_icon=github)
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
-![siam1113's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siam1113&theme=react&show_icons=true&hide_border=true&count_private=true)
 <br><br>
 
 ## Languages I work with 💻<br>
