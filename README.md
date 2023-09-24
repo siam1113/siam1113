@@ -16,6 +16,9 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PY](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 <br><br>
 ## Roles I can Play 🧑‍💻
 ### Front-End Developer <br>
@@ -54,7 +57,7 @@
 <a href="https://www.upwork.com/freelancers/~01002c8f5edfbc5075">
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
 </a>
-<a href="https://twitter.com/sudiptob2">
+<a href="https://twitter.com/SiamHas31281481">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="https://www.linkedin.com/in/siam-hasan/">
