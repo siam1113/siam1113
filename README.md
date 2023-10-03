@@ -10,7 +10,7 @@
 ![siam1113's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siam1113&theme=react&hide_border=true)
 <br><br>
 
-## Languages I work with 💻<br>
+## Languages I can work with 💻<br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
