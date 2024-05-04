@@ -4,7 +4,7 @@
 <br>🎯 Focused on delivering **high quality** solutions at fast pace having the ability to **contribute in all stages of process**.<br><br>
 💼 Working as **SQA Engineer**, **Test Automation Engineer** with multiple startups around the globe.<br><br>
 💬 Like to talk about anything related to **Technology** , **Business** , **Startup** and **Entrepreneurship**.<br><br>
-🧩 Visit my [**Portfolio**](https://siamcodessolutions.com/)
+
 <br><br>
 
 ## Let's Connect 🔗
