@@ -9,9 +9,6 @@
 
 ## Let's Connect 🔗
 
-<a href="https://www.upwork.com/freelancers/~01002c8f5edfbc5075">
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
-</a>
 <a href="https://twitter.com/SiamHas31281481">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height=25>
 </a> 
